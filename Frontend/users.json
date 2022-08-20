@@ -1,0 +1,171 @@
+[
+    {
+        "name":"saradhi",
+        "email":"saradhi@outlook.com",
+        "social_profile":{
+            "facebook":"saradhi",
+            "linkedin":"saradhi",
+            "github":"saradhi",
+            "instagram":"saradhi"
+        },
+        "addresses":[{
+            "type":"home",
+            "street":"road 12",
+            "city":"rjy",
+            "state":"Andra Pradesh",
+            "pincode":"533101"
+        }],
+        "blogs":["62b46e5af8eaa14e29d64ffb","62b3deac43ae204d707659bf"]
+    },
+    {
+        "name":"lilbaby",
+        "email":"lilbaby@outlook.com",
+        "social_profile":{
+            "facebook":"baby4pf",
+            "linkedin":"drip123",
+            "github":"dripp",
+            "instagram":"youngeen"
+        },
+        "addresses":[{
+            "type":"home",
+            "street":"63rd st louis",
+            "city":"atalanta",
+            "state":"Chicago",
+            "pincode":"z1z1z1"
+        }],
+        "blogs":["62b3ddce72f28d6ff1b18432"]
+    },
+    {
+        "name":"Gunna",
+        "email":"Gunna@outlook.com",
+        "social_profile":{
+            "facebook":"YSLgunna",
+            "linkedin":"Drip too hard",
+            "github":"YSL",
+            "instagram":"Young Thug"
+        },
+        "addresses":[{
+            "type":"home",
+            "street":"65th st louis",
+            "city":"atalanta",
+            "state":"Chicago",
+            "pincode":"z1z1z1"
+        }],
+        "blogs":["62b356bbeb884023a7975e97"]
+    },
+    {
+        "name":"NBAyoungBoy",
+        "email":"4KTREY@outlook.com",
+        "social_profile":{
+            "facebook":"Perkio",
+            "linkedin":"Green Flags",
+            "github":"4KTREY",
+            "instagram":"Never Broke Again"
+        },
+        "addresses":[{
+            "type":"home",
+            "street":"7200 church road",
+            "city":"Utah",
+            "state":"Chicago",
+            "pincode":"x1r1m6"
+        }],
+        "blogs":["62b356bbeb884023a7975e96"]
+    }
+]
+
+//Comments
+[
+    {
+        "blog_id":ObjectId("62b46e5af8eaa14e29d64ffb"), 
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a449e"),
+        "message":"Hope these are usefull",
+        "rating":"5"
+    },
+    {
+        "blog_id":ObjectId("62b46e5af8eaa14e29d64ffb"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a449e"),
+        "message":"Cool., will try all of them.",
+        "rating":"4.5"
+    },
+    {
+        "blog_id":ObjectId("62b46e5af8eaa14e29d64ffb"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a44a0"),
+        "message":"thanks",
+        "rating":"4"
+    },
+    {
+        "blog_id":ObjectId("62b46e5af8eaa14e29d64ffb"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a44a1"),
+        "message":"Really helpful",
+        "rating":"4.2"
+    },
+    {
+        "blog_id":ObjectId("62b3deac43ae204d707659bf"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a449e"),
+        "message":"Follow me on twitch",
+        "rating":"5"
+    },
+    {
+        "blog_id":ObjectId("62b3deac43ae204d707659bf"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a449e"),
+        "message":"Future of e-sports",
+        "rating":"4.1"
+    },
+    {
+        "blog_id":ObjectId("62b3deac43ae204d707659bf"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a44a0"),
+        "message":"play apex more",
+        "rating":"4"
+    },
+    {
+        "blog_id":ObjectId("62b3deac43ae204d707659bf"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a44a1"),
+        "message":"Twitch is better",
+        "rating":"5"
+    }
+]
+
+
+//Reactions
+[
+    {
+        "blog_id":ObjectId("62b46e5af8eaa14e29d64ffb"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a449e"),
+        "emoji":"😂"
+    },
+    {
+        "blog_id":ObjectId("62b46e5af8eaa14e29d64ffb"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a449e"),
+        "emoji":"😍"
+    },
+    {
+        "blog_id":ObjectId("62b46e5af8eaa14e29d64ffb"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a44a0"),
+        "emoji":"😂"
+    },
+    {
+        "blog_id":ObjectId("62b46e5af8eaa14e29d64ffb"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a44a1"),
+        "emoji":"😍"
+    },
+    {
+        "blog_id":ObjectId("62b3deac43ae204d707659bf"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a449e"),
+        "emoji":"😍"
+    },
+    {
+        "blog_id":ObjectId("62b3deac43ae204d707659bf"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a449e"),
+        "emoji":"👍"
+    },
+    {
+        "blog_id":ObjectId("62b3deac43ae204d707659bf"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a44a0"),
+        "emoji":"😍"
+    },
+    {
+        "blog_id":ObjectId("62b3deac43ae204d707659bf"),
+        "user_id":ObjectId("62b5c4acee4fa8e8e14a44a1"),
+        "emoji":"👍"
+    }
+]
