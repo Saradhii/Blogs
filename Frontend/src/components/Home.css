@@ -1,0 +1,88 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bgg{
+    background-image: url("https://wallpaperaccess.com/full/46542.jpg");
+    height:600px;
+    margin-top: 0%;
+    padding-top: 200px;
+}
+.main{
+    padding:20px;
+    width:60%;
+    margin:auto;
+    border:3px solid green;
+    border-radius: 20px;
+    padding-top: 100px;
+}
+.main1{
+    width:50%;
+    height:50px;
+    margin:auto;
+    border:3px solid green;
+    border-radius: 5px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 9px;
+}
+.main2{
+    width:60%;
+    height:100px;
+    margin:auto;
+    margin-top: 50px;
+    /* border:1px solid black; */
+    border-radius: 5px;
+    font-size: 25px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button2 {background-color: #008CBA;} /* Blue */
+  .button3 {background-color: #f44336;} /* Red */ 
+  .button4 {background-color: #e7e7e7; color: black;} /* Gray */ 
+  .button5 {background-color: #555555;} /* Black */
+  .button6 {background-color: #4CAF50;} 
+
+  .main21{
+    width:50%;
+    height:40px;
+    margin:auto;
+    margin-top: 50px;
+    /* border:1px solid black; */
+    border-radius: 5px;
+    font-size: 25px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.main21>input{
+    height: 28px;
+}
+.button0{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 70%;
+    margin-top: 1%;
+}

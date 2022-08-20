@@ -1,0 +1,14 @@
+.bmain{
+    width:90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(1,80%);
+    grid-template-rows: 50px 300px;
+    padding:100px;
+}
+.bmain>div{
+    border:1px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding:10px;
+}
